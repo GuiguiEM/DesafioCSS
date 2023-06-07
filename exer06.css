@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E3516E;
+}
+
+.cone-1{
+    width: 200px;
+    height: 200px;
+    top: 250px;
+    left: 750px;
+    position: absolute;
+    background-color: #51B5A9;
+    border-top-left-radius: 200px;
+}
+
+.cone-2{
+    width: 200px;
+    height: 200px;
+    top: 250px;
+    left: 950px;
+    position: absolute;
+    background-color: #FADE8B;
+    border-top-right-radius: 200px;
+}
+
+.cone-3{
+    width: 200px;
+    height: 200px;
+    top: 450px;
+    left: 750px;
+    position: absolute;
+    background-color: #F7F3D7;
+    border-bottom-left-radius: 200px;
+}
